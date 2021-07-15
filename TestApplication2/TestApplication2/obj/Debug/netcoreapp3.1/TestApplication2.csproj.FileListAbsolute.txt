@@ -1,0 +1,13 @@
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\bin\Debug\netcoreapp3.1\TestApplication2.exe
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\bin\Debug\netcoreapp3.1\TestApplication2.deps.json
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\bin\Debug\netcoreapp3.1\TestApplication2.runtimeconfig.json
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\bin\Debug\netcoreapp3.1\TestApplication2.runtimeconfig.dev.json
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\bin\Debug\netcoreapp3.1\TestApplication2.dll
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\bin\Debug\netcoreapp3.1\TestApplication2.pdb
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\obj\Debug\netcoreapp3.1\TestApplication2.csprojAssemblyReference.cache
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\obj\Debug\netcoreapp3.1\TestApplication2.AssemblyInfoInputs.cache
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\obj\Debug\netcoreapp3.1\TestApplication2.AssemblyInfo.cs
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\obj\Debug\netcoreapp3.1\TestApplication2.csproj.CoreCompileInputs.cache
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\obj\Debug\netcoreapp3.1\TestApplication2.dll
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\obj\Debug\netcoreapp3.1\TestApplication2.pdb
+F:\dev\ITA\TestRepo\TestApplication2\TestApplication2\obj\Debug\netcoreapp3.1\TestApplication2.genruntimeconfig.cache
